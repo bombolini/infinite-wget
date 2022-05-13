@@ -8,4 +8,4 @@ If you wish to rename the files, you may need rename.sh from this repo:
 
 https://github.com/bombolini/wd_rename
 
-If rename process has no importance for you, please uncomment related line in function loop
+If rename process has no importance for you, please comment out related line in function loop
